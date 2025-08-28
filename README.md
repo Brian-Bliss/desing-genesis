@@ -1,5 +1,6 @@
-# desing-genesis
-Projeto para exemplificar o github e git
+# desing-calculadora
+Projeto para fazer calculos simples
 
 # Tecnologias
+HTML5
 JavaScript
